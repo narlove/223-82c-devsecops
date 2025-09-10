@@ -49,6 +49,7 @@
     "validator": "^13.5.2"
   },
   "devDependencies": {
+    "@sonar/scan": "^4.3.0",
     "browserify": "^13.1.1",
     "nodemon": "^2.0.7",
     "snyk": "^1.244.0"
